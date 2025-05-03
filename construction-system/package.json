@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "html2pdf.js": "^0.10.3",
+    "react-to-print": "^3.1.0",
+    "recharts": "^2.15.3",
+    "xlsx": "^0.18.5"
+  }
+}
